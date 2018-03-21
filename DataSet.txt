@@ -1,2 +1,0 @@
-Data Source: MovieLens web site (filename: ml-20m.zip)
-Location: https://grouplens.org/datasets/movielens/
