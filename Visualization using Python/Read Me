@@ -1,3 +1,16 @@
 This is a readme file for my visualization using python.
 I have used matplotlib to plt graphs in python.
 It is a library that helps in plotting graphs using pyplot.
+
+I have plotted the following graphs : 
+Scatter Plot
+Bar chart
+Histogram
+Line Graph
+
+
+
+
+NOTE: I have includeda dataset file.
+Kindly use the link provided in it .
+Copy and paste it in your browser to download the dataset
